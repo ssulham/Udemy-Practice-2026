@@ -1,6 +1,6 @@
 # Imports
 
-from user_actions import *
+from cli_user_actions import *
 
 # Define Functions
 
