@@ -1,0 +1,11 @@
+Shower
+Breakfast
+Lunch
+Dinner
+Pray
+Wake
+Eat
+Sleep
+Exercise
+Dragon
+Phoenix
