@@ -26,7 +26,7 @@ def show():
         print(f"{index + 1}. {item}")
 
 def edit(user_action):
-    """Lets the user edit a todo list item"""
+    """Lets the user edit a list item"""
     todos = get_todos()
 
     if len(user_action) > 5:
@@ -40,7 +40,7 @@ def edit(user_action):
     give_todos(todos)
 
 def complete(user_action):
-    """Lets the user remove an item from the todo list once it's been completed"""
+    """Lets the user remove an item from the list once it's been completed"""
     todos = get_todos()
 
     if len(user_action) > 9:
