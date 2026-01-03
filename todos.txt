@@ -1,15 +1,15 @@
-Shower
-Breakfast
+Get up
 Lunch
 Dinner
 Pray
 Wake
 Eat
-Sleep
 Exercise
 Dragon
 Phoenix
-Extra
+Extra 1
 Extra 2
 Extra 3
 Extra 4
+Extra 5
+Extra 6
